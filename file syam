@@ -1,0 +1,4 @@
+http is not a secured process
+https is a secured process
+In http the data will not converted into encrypted format
+In https the data will converted into encrypted format
